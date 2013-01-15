@@ -9,6 +9,6 @@ void main(void)
 	while ( i < 3 )//ŒJ‚è•Ô‚µðŒ
 	{
 		printf ("ŒxII\n");//‰æ–Ê•\Ž¦
-		i++;
+		i++;//i‚ð1‘«‚·
 	}
 }
