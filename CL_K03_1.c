@@ -6,7 +6,7 @@
 void main(void)
 {
 	int i = 0;//int‚Ì‰Šú‰»
-	while ( i < 3 )
+	while ( i < 3 )//ŒJ‚è•Ô‚µğŒ
 	{
 		printf ("ŒxII\n");
 		i++;
