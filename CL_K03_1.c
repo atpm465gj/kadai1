@@ -8,7 +8,7 @@ void main(void)
 	int i = 0;//intの初期化
 	while ( i < 3 )//繰り返し条件
 	{
-		printf ("警告！！\n");
+		printf ("警告！！\n");//画面表示
 		i++;
 	}
 }
